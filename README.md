@@ -61,7 +61,7 @@
 
 **在生产环境使用**
 
-**用户(学生/教师) 工程师 组长端**使用https://sztuwork.sligenai.cn/login/login登录
+**用户(学生/教师) 工程师 组长端**使用`https://sztuwork.sligenai.cn/login/login`登录
 
 **推荐通过手机登录**
 
@@ -71,4 +71,33 @@
 
 ![image](https://github.com/user-attachments/assets/d997350c-a648-44b7-84ed-2d5145ef3c4b)
 
+**信息中心端**使用`https://sztuwork.sligenai.cn/center/login`登录
+
+![image](https://github.com/user-attachments/assets/8f4893f7-2127-470a-a50c-51c4c9ed3b1a)
+
+**在开发环境使用**
+
+**需要在`http://localhost:8104/login`中登录后拿到token后复制到各个端**
+![image](https://github.com/user-attachments/assets/cc6460e1-9954-4a00-b1c1-8ad13ee0c9d0)
+
+**例如将token给到用户端**
+![image](https://github.com/user-attachments/assets/e2b7210c-5f70-4a6c-9213-63b6a037c8ad)
+**最后将网址改为/school**
+![image](https://github.com/user-attachments/assets/a7a2a32c-f975-4351-a286-fff81021d5bf)
+
+**工程师端和组长端同理**
+
+工程师端改为/engineer
+
+组长端改为/group
+
+## 功能使用
+
+在用户端创建工单
+
+![image](https://github.com/user-attachments/assets/8349120b-abc4-4756-b446-fee115bcbe2a)
+
+填写故障信息
+
+![image](https://github.com/user-attachments/assets/b5ff17f6-cad7-45aa-ba67-1ed0d05ec075)
 
