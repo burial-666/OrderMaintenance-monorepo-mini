@@ -20,4 +20,42 @@
 
 ### 快速开始
 
-1.克隆仓库
+1. 克隆仓库：
+   ```bash
+   git clone https://github.com/burial-666/OrderMaintenance-monorepo-mini.git
+   ```
+2. 安装依赖：
+   ```bash
+   cd OrderMaintenance-monorepo-mini
+   pnpm install
+   ```
+3. 启动服务：
+   ```bash
+   pnpm run dev:all
+   ```
+
+## 使用
+已部署网址：https://sztuwork.sligenai.cn/login/login
+
+登录账号如下：
+
+测试用户1  12345678911。
+
+测试教师 12345678918。
+
+测试工程师1 12345678912。(学生机房运维)
+
+测试工程师2 12345678913。(学生机房运维)
+
+测试工程师3 12345678914。(系统运维)
+
+测试组长1 12345678915。(学生机房运维)
+
+测试组长2 12345678916。(系统运维)
+
+测试信息中心 12345678917
+
+信息中心登录网址：https://sztuwork.sligenai.cn/center/login
+
+测试统一使用验证码202410
+
