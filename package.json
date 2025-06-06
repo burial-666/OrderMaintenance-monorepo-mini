@@ -1,0 +1,14 @@
+{
+  "name": "my-monorepo",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm -r run dev",
+    "build:all": "pnpm -r run build && pnpm run move-build",
+    "move-build": "node ./scripts/move-build.js",
+    "dev:all": "pnpm -r --parallel run start "
+  },
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "pinia-plugin-persistedstate": "^4.1.1"
+  }
+}

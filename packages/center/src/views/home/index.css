@@ -1,0 +1,7 @@
+.frame {
+    width: 100%;
+    min-height: 100vh;
+    background: url('../../static/Mask group.png') no-repeat center ;
+    background-color: #f5f5f5;
+    background-size: cover;
+}

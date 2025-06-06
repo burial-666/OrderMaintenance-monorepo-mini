@@ -1,0 +1,48 @@
+.frame {
+    width: 750rem;
+    position: relative;
+}
+.title {
+    display: flex;
+    flex-direction: column;
+    margin-top: 116rem;
+    margin-left: 48rem;
+    width: 90%;
+    margin-bottom: 110rem;
+}
+.main-content {
+    margin-left: 32rem;
+}
+.username {
+    height: 112rem;
+    display: flex;
+    gap: 72rem;
+    align-items: center;
+}
+.password{
+    height: 112rem;
+    display: flex;
+    align-items: center;
+}
+input::placeholder {
+    font-size: 32rem;
+    font-weight: 400;
+    color: rgba(153, 153, 153, 1);
+}
+.button {
+    width: 686rem;
+    height: 96rem;
+    background-color: #1356EB;
+    border-radius: 12rem;
+    color: #fff;
+    font-size: 36rem;
+    margin: 0 auto;
+    margin-top: 36rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.button:hover {
+    background-color: #0041C2;
+}
