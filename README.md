@@ -34,7 +34,7 @@
    pnpm run dev:all
    ```
 
-## 使用
+#### 使用
 已部署网址：https://sztuwork.sligenai.cn/login/login
 
 登录账号如下：
@@ -58,4 +58,17 @@
 信息中心登录网址：https://sztuwork.sligenai.cn/center/login
 
 测试统一使用验证码202410
+
+**在生产环境使用**
+
+**用户(学生/教师) 工程师 组长端**使用https://sztuwork.sligenai.cn/login/login登录
+
+**推荐通过手机登录**
+
+![bff4ceb9b1e6ec9d27b354ea10a140c](https://github.com/user-attachments/assets/6ccb26fc-7137-4efa-9017-fd67c5c3ce98)
+
+**亦可在电脑端使用f12模拟手机登录**
+
+![image](https://github.com/user-attachments/assets/d997350c-a648-44b7-84ed-2d5145ef3c4b)
+
 
