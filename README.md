@@ -151,3 +151,7 @@
 
 ![image](https://github.com/user-attachments/assets/3c9694bb-5831-4f9d-a56f-88be9a0ded1c)
 
+**信息中心端可以统筹查看数据并且可以导出工单信息的xlsx表格以及机房软件安装申请的审批以及请假审批以及人员账号的权限管理以及问题管理**
+
+![image](https://github.com/user-attachments/assets/308de32e-e07a-4e57-976b-a16ad1d4adc8)
+
