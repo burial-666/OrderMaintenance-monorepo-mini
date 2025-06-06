@@ -93,11 +93,61 @@
 
 ## 功能使用
 
-在用户端创建工单
+**在用户端创建工单**
 
 ![image](https://github.com/user-attachments/assets/8349120b-abc4-4756-b446-fee115bcbe2a)
 
-填写故障信息
+**填写故障信息**
 
 ![image](https://github.com/user-attachments/assets/b5ff17f6-cad7-45aa-ba67-1ed0d05ec075)
+
+**组长端拿到工单**
+
+![image](https://github.com/user-attachments/assets/fe695d8c-cde1-43b0-bd7e-79b8a487d2b7)
+
+**组长可以选择分配给租内工程师或者自己接单亦或是工单分配的组别错误可以进行转组**
+
+![image](https://github.com/user-attachments/assets/3d6c6c39-a215-4d11-84e7-22c56e42d491)
+
+**这里演示选择分配给组员**
+
+![image](https://github.com/user-attachments/assets/2edd3748-0829-4e57-a3de-bb26ea119bdf)
+
+**组员拿到分配的工单**
+
+![image](https://github.com/user-attachments/assets/d632f37b-93dd-48c6-a29a-7151d5f123ad)
+
+**并且进行接单**
+
+![image](https://github.com/user-attachments/assets/ab45c0f3-8f8e-439b-8a1a-08db65db3936)
+
+**接单后要完成到达打卡**
+
+![image](https://github.com/user-attachments/assets/484ea58e-f3b1-44ff-9f2c-73d680d4b635)
+
+**到达后若完成可以选择完成，若无法完成可以选择挂单**
+
+![image](https://github.com/user-attachments/assets/4423f4fa-3393-4ce2-9d63-1a17591da237)
+
+**完成后项目会结束**
+
+![image](https://github.com/user-attachments/assets/7ee1b806-f3de-43a9-a686-9456d7aa5600)
+
+**若选择挂单，任务可以完成可以结束挂单，若无法完成可以退回挂单**
+
+![image](https://github.com/user-attachments/assets/c781d670-e212-439a-8d87-a70a8139ea04)
+
+##  数据分析与统计
+
+**工程师可以看到自己的工作数据并且可以进行上下班打卡以及工单的创建**
+
+![image](https://github.com/user-attachments/assets/3d852124-0db1-481c-a42f-0e1ec5459579)
+
+**组长可以看到自己的数据已经组员的数据与当前工作情况**
+
+![image](https://github.com/user-attachments/assets/52f1ae7e-17cd-4149-91ac-1560a1f02378)
+
+**组长同时可以对组员进行请假审批以及管理用户创建工单时选择的问题以及创建工单**
+
+![image](https://github.com/user-attachments/assets/3c9694bb-5831-4f9d-a56f-88be9a0ded1c)
 
